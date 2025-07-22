@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: skyblue;
+}
+h1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+p {
+    color:black;
+    font-size: 21px;
+    text-align: center;
+    padding: 40px 300px 40px 300px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
